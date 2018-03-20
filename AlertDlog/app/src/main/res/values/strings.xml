@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDlog</string>
+    <string name="button_name">Show Alert Dialog</string>
+    <string name="title">Alert Dialog</string>
+    <string name="message">Are Your Sure?></string>
+    <string name="yes">yes</string>
+    <string name="nope">nope</string>
+</resources>
