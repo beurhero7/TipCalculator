@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeterstoInches</string>
+    <string name="error_message">Please eneter proper number</string>
+</resources>
