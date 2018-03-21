@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="checkbox">Yes!</string>
+    <string name="textview">Do you think you got us?</string>
+</resources>
